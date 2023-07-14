@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssaaiikrishna
+- 👋 Hi, I’m saikrishna
 - 👀 I’m interested in Data Science, A.I and web development
 - 🌱 I’m currently learning all the intresting stuff
 - 💞️ I’m looking to collaborate on small scale projects
